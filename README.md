@@ -1,4 +1,4 @@
 # BC
-## Live Demo
+## Interview2 Live Demo
 
-[Boost Creative](https://boostcreative.netlify.app/)
+[Interview2](https://boostcreative2.netlify.app/)
